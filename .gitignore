@@ -1,0 +1,11 @@
+# macOS 系统文件
+.DS_Store
+._*
+
+# 编辑器
+.vscode/
+.idea/
+
+# 备份文件（数据备份不要上传到 GitHub）
+inventory-backup-*.json
+*.bak
